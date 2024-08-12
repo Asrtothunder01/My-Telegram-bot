@@ -12,7 +12,7 @@ from telegram.ext import (
     ContextTypes,
 )
 
-TOKEN: Final = '6348322828:AAHKwIryRDTL2sG_RHQTzuR6BSXwXDKXHJo'
+TOKEN: Final = 'Get your own'
 
 # Set up logging configuration
 logging.basicConfig(
