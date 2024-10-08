@@ -65,18 +65,15 @@ def new_command(message):
 
 ## Contributing
 
-Feel free to fork the repository, create a feature branch, and submit a pull request for any enhancements or bug fixes.
+Feel free to fork the repository, create a feature branch, and submit a pull request for any enhancements or bug fixed.
 
-## License
 
-This project is licensed under the MIT License.
-
----
 
 ### Additional Notes:
 - You might want to include detailed documentation for specific commands or APIs the bot interacts with.
 - Ensure the `requirements.txt` file includes all dependencies (e.g., `python-telegram-bot`, `dotenv`).
 
 Let me know if you need more sections added to this!
+
 **Contact Me:0905 641 9825**
 **Whatsapp:08188575477**
